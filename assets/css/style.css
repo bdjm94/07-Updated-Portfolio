@@ -48,6 +48,14 @@ section p{
         color: white;
     }
 
+.projects {
+background-color: #2b7a78;
+}
+
+h1 {
+    color: white;
+}
+
 .slideshow-container {
   max-width: 1000px;
   position: relative;
@@ -86,6 +94,14 @@ section p{
   bottom: 8px;
   width: 100%;
   text-align: center;
+  background: rgb(0, 0, 0);
+  background: rgba(0,0,0,0.5);
+  opacity: 0;
+  transition: .5s ease;
+}
+
+.projectSlides:hover .text{
+    opacity: 1;
 }
 
 .dot {
