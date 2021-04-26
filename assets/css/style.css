@@ -285,6 +285,10 @@ h1 {
     background-color: #2b7a78;
 }
 
+.about-skills p {
+    font-size: 15px;
+}
+
  .inner {
      padding: 20px;
  }
