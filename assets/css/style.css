@@ -17,6 +17,10 @@ a{
     cursor: pointer;
 }
 
+.navbar {
+    color: white;
+}
+
 /* styling for the intro section */
 .pp {
     padding: 100px;
