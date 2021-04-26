@@ -256,14 +256,15 @@ h1 {
     -webkit-transition-delay:.2s;
     transition-delay:.2s;
     }
+
  @media screen and (max-width: 800px) {
-    .inner-grid {
+    .column {
        flex: 50%;
        max-width: 50%;
     }
  }
  @media screen and (max-width: 600px) {
-    .inner-grid {
+    .column {
        flex: 100%;
        max-width: 100%;
     }
