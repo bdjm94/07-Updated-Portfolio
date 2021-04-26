@@ -21,6 +21,10 @@ a{
     color: white;
 }
 
+.bgcustom {
+    background-color: #2b7a78;
+}
+
 /* styling for the intro section */
 .pp {
     padding: 100px;
