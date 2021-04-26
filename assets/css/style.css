@@ -5,6 +5,7 @@ img {vertical-align: middle;}
 
 .pp {
     padding: 100px;
+    background-color: #3aafa9;
     }
     
 .profile {
@@ -18,15 +19,9 @@ img {vertical-align: middle;}
 .pp h1 {
         font: 60px 'Open Sans', sans-serif;
         margin-bottom: 15px;
-        color: #def2f1;
+        color: white;
     }
 
-html{
-        font: normal 16px sans-serif;
-        color: #def2f1;
-        background-color: #3aafa9;
-    }
-    
 ul, nav{
         list-style: none;
     }
@@ -41,8 +36,16 @@ section{
         display: flex;
         flex-direction: column;
         align-items: center;
-    
         padding: 125px 100px;
+    }
+
+section p{
+        max-width: 800px;
+        text-align: center;
+        margin-bottom: 35px;
+        padding: 0 20px;
+        line-height: 2;
+        color: white;
     }
 
 .slideshow-container {
