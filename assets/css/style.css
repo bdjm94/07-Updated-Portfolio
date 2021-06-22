@@ -292,6 +292,10 @@ h1 {
        flex: 50%;
        max-width: 50%;
     }
+    .content h2,
+    .pWork {
+        font-size: 10px;
+    }
  }
  @media screen and (max-width: 600px) {
     .column {
