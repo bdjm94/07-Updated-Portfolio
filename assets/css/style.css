@@ -298,6 +298,10 @@ h1 {
        flex: 100%;
        max-width: 100%;
     }
+    .content h2,
+    .pWork {
+        font-size: 8px;
+    }
  }
 
  /* styling for about/skills section */
