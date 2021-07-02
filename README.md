@@ -31,7 +31,7 @@ The contact section has been kept the same with the same icons that link to my e
 
 ## Links
 
-- [Updated Portfolio](https://bdjm94.github.io/07-Updated-Portfolio/)
+- [Updated Portfolio](https://bdjm94.github.io/brendan-portfolio/)
 - [Colour Theme Inspiration](https://digitalsynopsis.com/design/website-color-schemes-palettes-combinations/)
 - [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 - [W3Schools How To's](https://www.w3schools.com/howto/default.asp)
